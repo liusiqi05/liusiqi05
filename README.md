@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 你好，我是思齐 刘
 
-<!--
-**liusiqi05/liusiqi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 关于我
 
-Here are some ideas to get you started:
+我是一名对技术和创新充满热情的学习者/开发者，目前专注于 **深度学习初步**。我喜欢解决复杂的问题，并乐于将理论知识应用到实际项目中。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 教育背景：目前就读于 [上海大学]，[智能科学与技术]
+- 📍 现居：[贵州贵阳]
+
+## 🛠 技能特长
+
+- 编程语言：Python, C++, JavaScript, ...
+- 工具与框架：PyTorch, TensorFlow, React, Git, ...
+- 数据分析与机器学习：Pandas, Scikit-learn, OpenCV, ...
+- 语言能力：中文（母语），英文（流利）
+
+## 🌱 目前在学
+- 强化学习与大模型训练原理
+- 图神经网络与知识图谱构建
+- 前端框架如 Next.js、Tailwind CSS
+
+## 📫 联系方式
+
+- 邮箱：lsq1783198384@icloud.com
+
+---
+
+感谢阅读，期待与更多志同道合的朋友交流合作！
